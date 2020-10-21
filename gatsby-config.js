@@ -46,6 +46,7 @@ try {
 
 module.exports = {
     plugins: [
+        `gatsby-plugin-netlify-cms`,
         `gatsby-plugin-preact`,
         `gatsby-plugin-netlify`,
         {
